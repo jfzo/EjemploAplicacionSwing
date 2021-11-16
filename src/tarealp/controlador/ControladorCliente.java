@@ -1,6 +1,5 @@
 package tarealp.controlador;
 
-import tarealp.gui.Example;
 import tarealp.gui.GestorDeTienda;
 import tarealp.gui.RegistrarCliente;
 import tarealp.modelo.Cliente;
